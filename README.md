@@ -1,16 +1,17 @@
 
  
 
-<h1> DOCUMENTO SOFTWARE
+## DOCUMENTO SOFTWARE
+
   
 # Empresa: Serralheria União S/A
 
 ## - OBJETIVO DO PROJETO
-  Desenvolver um Sistema de Banco de Dados para auxiliar na Administração Operacional da Empresa otimizando seu Sistema de armazenamento de dados, gerando relatórios que ajudem a ter um controle maior sobre a parte Financeira da Empresa, fazendo o armazenamento em banco de Dados, dos dados cadastrais dos Clientes, Funcionários, Produtos e Distribuidores e que realize o registro e armazenamento de Orçamentos solicitados no período assim como o Registro da Venda finalizada.
+  Desenvolver um Sistema Desktop Java com integração de Banco de Dados Relacional MYSQL para auxiliar na Administração Operacional da Empresa otimizando seu Sistema de armazenamento de dados, gerando relatórios que ajudem a ter um controle maior sobre a parte Financeira da Empresa, fazendo o armazenamento em banco de Dados, dos dados cadastrais dos Clientes, Funcionários, Produtos e Distribuidores e que realize o registro e armazenamento de Orçamentos solicitados no período assim como o Registro da Venda finalizada.
 
 ## - DESCRIÇÃO DOS USUÁRIOS
 
-	(Ator) Proprietário - Responsável pela Loja
+  (Ator) Proprietário - Responsável pela Loja
   
   (Ator) Gerente - Gerencia os Funcionários, cuida da parte Administrativa.
   
